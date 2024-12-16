@@ -1,0 +1,11 @@
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: transparent; /* Изначально фон прозрачный */
+    border: 1px solid #000; /* Добавляем границу для видимости */
+    cursor: pointer;
+}
+
+.colored {
+    background-color: #ff6347; /* Цвет фона при активации */
+}
